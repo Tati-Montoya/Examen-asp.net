@@ -1,0 +1,4 @@
+C:\Users\Tatiana\Desktop\TatianaMontoyaValencia\Examen1\Examen1\bin\Debug\Examen1.dll
+C:\Users\Tatiana\Desktop\TatianaMontoyaValencia\Examen1\Examen1\bin\Debug\Examen1.pdb
+C:\Users\Tatiana\Desktop\TatianaMontoyaValencia\Examen1\Examen1\obj\Debug\Examen1.dll
+C:\Users\Tatiana\Desktop\TatianaMontoyaValencia\Examen1\Examen1\obj\Debug\Examen1.pdb
